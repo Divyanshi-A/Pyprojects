@@ -1,2 +1,2 @@
-# Atacd
-An interpreter based coaching management application built using python
+some python projects i built while learning
+
